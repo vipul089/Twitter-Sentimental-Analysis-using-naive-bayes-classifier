@@ -1,1 +1,1 @@
-# Face-recognization-using-attendance-system
+Twitter sentimenta analysis using naive bayes classifier
